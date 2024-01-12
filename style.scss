@@ -64,6 +64,7 @@ h1 {
   font-size: 15px;
   background-color: hsla(216, 12%, 54%, 0.2);
   color: hsl(217, 12%, 63%);
+  cursor: pointer;
 }
 
 .number:hover {
@@ -89,6 +90,7 @@ h1 {
   padding: 14px;
   font-size: 15px;
   letter-spacing: 2px;
+  cursor: pointer;
 }
 
 .submit:hover {
@@ -111,7 +113,7 @@ h1 {
 
 .attribution {
   font-size: 11px;
-  text-align: center;
+  // text-align: center;
   color: hsl(0, 0%, 100%);
   position: absolute;
   bottom: 0;
